@@ -7,3 +7,5 @@
 ### [-Teste 3:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%203.abap)NO-ZERO
 
 ### [-Teste 4:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%204.abap)COMENTÁRIO PARCIAL
+
+### [-Teste 5:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%205.abap)COMENTÁRIO DE LINHA COMPLETA
