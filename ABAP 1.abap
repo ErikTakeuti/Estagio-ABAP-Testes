@@ -1,2 +1,0 @@
-REPORT ZTESTE.
-WRITE 'Olá Mundo'.
