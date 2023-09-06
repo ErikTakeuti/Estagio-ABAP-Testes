@@ -5,3 +5,5 @@
 ### [-Teste 2:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%202.abap)WRITE 2
 
 ### [-Teste 3:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%203.abap)NO-ZERO
+
+### [-Teste 4:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%204.abap)COMENTÁRIO PARCIAL
