@@ -14,7 +14,7 @@
 
 ### [-Teste 7:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%207.abap)USO DO ULINE;
 
-### [-Teste 8:]()
+### [-Teste 8:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%208.abap)USO DOS TIPOS DE DADOS DE ARMAZENAMENTO;
 
 ### [-Teste 9:]()
 
