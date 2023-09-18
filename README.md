@@ -30,4 +30,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### [-Teste 15:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%2015.abap)USO DO TIPO CONSTANTS;
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [-Teste 16:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%2016.abap)USODO TIPO RANGES;
+### [-Teste 16:](https://github.com/ErikTakeuti/Estagio-ABAP/blob/main/Teste%2016.abap)USO DO TIPO RANGES;
